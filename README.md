@@ -20,7 +20,7 @@
     </header>
     <nav>
         <a href="#about">About</a>
-        <a href="#services">Services</a>
+        <a The Philippine National Police Special Action Force (SAF) is a specialize unit within the Philippine National Police that is primarily responsible for handling high-risk law enforcement operations. PNP-SAF is often tasked with counter-terrorism, counter-insurgency, and other high-intensity operations that require a well-trained and highly skilled force. ="#services">Services</a>
         <a href="#contact">Contact</a>
     </nav>
     <section id="about">
@@ -36,7 +36,7 @@
         <p>Reach out via email or social media.</p>
     </section>
     <footer>
-        <p>&copy; 2026  TPNP Special Action Force. All rights reserved.- Chief of Staff, KEYZSX </p>
+        <p>&copy; 2026  TPNP Special Action Force. All rights reserved.- Chief of Staff </p>
     </footer>
 </body>
 </html>
