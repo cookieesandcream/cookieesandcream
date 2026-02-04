@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>SAF - Special Action Force-Special Operations Force</title>
+    <title>SAF - Special Action Force</title>
     <style>
         body { background-color: #121212; color: #ffffff; font-family: Arial, sans-serif; margin: 0; padding: 0; }
         header { background-color: #1e1e1e; padding: 20px; text-align: center; }
@@ -15,8 +15,8 @@
 </head>
 <body>
     <header>
-        <h1>ASOC</h1>
-        <p>Advanced Social Operations Center</p>
+        <h1>SAF</h1>
+        <p>Special Action Force</p>
     </header>
     <nav>
         <a href="#about">About</a>
@@ -24,7 +24,7 @@
         <a href="#contact">Contact</a>
     </nav>
     <section id="about">
-        <h2>About ASOC</h2>
+        <h2>About SAF</h2>
         <p>Content about social operations, inspired by the original site. Add your own text here.</p>
     </section>
     <section id="services">
@@ -36,7 +36,7 @@
         <p>Reach out via email or social media.</p>
     </section>
     <footer>
-        <p>&copy; 2023 Your Name. All rights reserved.</p>
+        <p>&copy; 2026  TPNP Special Action Force. All rights reserved.- Chief of Staff, KEYZSX </p>
     </footer>
 </body>
 </html>
